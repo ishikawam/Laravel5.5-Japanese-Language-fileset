@@ -8,3 +8,6 @@
 
 ### OFFICIAL
 Ritolabo https://www.ritolab.com/
+
+Laravel5.5のvalidationメソッドでバリデーションを実装する  
+https://www.ritolab.com/entry/40
