@@ -1,7 +1,6 @@
 # Laravel5.5-Japanese-Language-fileset
-
-## Laravel5.5 日本語言語ファイルセット
-
+5.6と5.5の言語ファイルセットは同じ構成なので、両バージョンで使えます。
+## Laravel5.6/5.5 日本語言語ファイルセット
 1. resources/lang/ja の設置
 
 resources/lang/ja ディレクトリを作成し、その中にこれらのファイルを設置してください。
